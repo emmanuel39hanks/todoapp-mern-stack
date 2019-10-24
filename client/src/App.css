@@ -10,10 +10,10 @@ input {
   height: 40px;
   width: 50%;
   border: none;
-  border-bottom: 2px #101113 solid;
+  border-bottom: 2px #ffffff solid;
   background: none;
   font-size: 1.5rem;
-  color: #787a80;
+  color: #ffffff;
 }
 
 input:focus {
@@ -26,9 +26,9 @@ button {
   border: none;
   margin-left: 10px;
   font-size: 25px;
-  background: #101113;
+  background: #ffffff;
   border-radius: 5px;
-  color: #787a80;
+  color: #000000;
   cursor: pointer;
 }
 
